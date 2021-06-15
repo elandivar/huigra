@@ -9,3 +9,5 @@ At the moment we support only two sensors:
 - BMP180 for barometric pressure
 
 www.huigra.com
+
+https://neomano.com/tecnicas-para-encender-una-buena-fogata-en-tu-dia-de-camping/
